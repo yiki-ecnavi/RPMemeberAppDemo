@@ -9,6 +9,7 @@ import android.app.Activity;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.graphics.Bitmap;
+import android.graphics.Color;
 import android.net.Uri;
 import android.net.http.SslError;
 import android.os.Bundle;
@@ -56,6 +57,8 @@ public class MainActivity extends Activity {
 
     private void initWebView() {
         mWebView = (WebView) findViewById(R.id.webview);
+        mWebView.setBackgroundColor(Color.TRANSPARENT);
+
         mProgressBar = (ProgressBar) findViewById(R.id.webviewProgressbar);
 
         mProgressBar.setVisibility(View.GONE);

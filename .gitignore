@@ -1,0 +1,17 @@
+RPMemberAppDemo/build/manifests
+RPMemberAppDemo/build/res
+RPMemberAppDemo/build/source
+RPMemberAppDemo/build/incremental
+RPMemberAppDemo/build/classes
+RPMemberAppDemo/build/libs
+.gradle
+.idea
+RPMemberAppDemo-RPMemberAppDemo.iml
+RPMemberAppDemo.iml
+gradle
+local.properties
+settings.gradle
+gradlew
+gradlew.bat
+build.gradle
+RPMemberAppDemo/build.gradle

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RPMemberAppDemo</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Dialog (ダイアログ) -->
+    <string name="dialog_warning">注意</string>
+    <string name="dialog_confirm">確認</string>
+    <string name="dialog_open_external_browser_confirm">外部ブラウザを起動する必要がありますが、よろしいでしょうか？</string>
+    <string name="dialog_application_exit_confirm">アプリを終了しますが、よろしいでしょうか？</string>
+
+    <string name="dialog_open">開く</string>
+    <string name="dialog_delete">削除</string>
+    <string name="dialog_exit">終了</string>
+    <string name="dialog_cancel">キャンセル</string>
+
+</resources>
